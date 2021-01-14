@@ -1,88 +1,103 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-body{
+
+body {
     background: linear-gradient(to bottom right, #ffffffc5 0%, #96a7a7 100%);
 }
-header{
+
+header {
     background: linear-gradient(to right, #c9cecd 0%, #96b1b1 100%);
 }
-body{
+
+body {
     font-family: 'Merriweather', serif;
 }
-.icon{
-    width: 300px;
+
+.icon {
+    width: 250px;
 }
-.model-img{
+
+.model-img {
     width: 100%;
 }
-.title-section h1{
+
+.title-section h1 {
     font-weight: 700;
     font-size: 40px;
-    
 }
-.color-title{
-    color:#6d4e13;
+
+.color-title {
+    color: #6d4e13;
 }
-.color-title-1{
+
+.color-title-1 {
     color: #363958;
 }
-.btn-color{
-    background-color:rgb(164, 188, 70);
+
+.btn-color {
+    background-color: rgb(164, 188, 70);
     color: white;
     padding: 10px;
     border-radius: .25em;
     font-size: 20px;
-
 }
-.price-color{
+
+.price-color {
     color: #FABE4C;
 }
-.jacket-style{
+
+.jacket-style {
     width: 100%;
     height: 350px;
     background-color: whitesmoke;
     border-radius: 1em;
-    
 }
-.panguin-card{
+
+.panguin-card {
     border: 0;
     padding: 15px 15px;
-    
 }
-.penguin-card-title{
+
+.penguin-card-title {
     color: #363958;
     font-weight: 700;
     font-size: 20px;
 }
-.penguin-card-footer{
+
+.penguin-card-footer {
     border: 0;
     background-color: white;
     border-top: 0;
 }
-.jacket-style-2{
+
+.jacket-style-2 {
     width: 100%;
     height: 350px;
     padding: 10px 30px;
     background-color: whitesmoke;
     border-radius: 1em;
 }
-.Penguin-carousel img{
+
+.Penguin-carousel img {
     width: 200px;
     height: 200px;
 }
-.contact-section h1{
+
+.contact-section h1 {
     font-weight: 700;
     font-size: 50px;
     text-align: center;
     padding: 3%;
     color: white;
 }
-.contact-section{
+
+.contact-section {
     background: linear-gradient(to bottom, #0099cc 0%, #ccffff 100%);
 }
-footer{
+
+footer {
     color: #363958;
     text-align: center;
     margin-top: 5px;
