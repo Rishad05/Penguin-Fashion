@@ -3,10 +3,10 @@
     padding: 0;
 }
 body{
-    background: linear-gradient(to right, #ffffcc 0%, #ffcc66 100%);
+    background: linear-gradient(to bottom right, #ffffffc5 0%, #96a7a7 100%);
 }
 header{
-    background: linear-gradient(to right, #ffffcc 0%, #ffcc99 100%);
+    background: linear-gradient(to right, #c9cecd 0%, #96b1b1 100%);
 }
 body{
     font-family: 'Merriweather', serif;
@@ -23,7 +23,7 @@ body{
     
 }
 .color-title{
-    color:#FABE4C;
+    color:#6d4e13;
 }
 .color-title-1{
     color: #363958;
@@ -83,7 +83,8 @@ body{
     background: linear-gradient(to bottom, #0099cc 0%, #ccffff 100%);
 }
 footer{
+    color: #363958;
     text-align: center;
     margin-top: 5px;
-    background: linear-gradient(to right, #ffffcc 0%, #ffcc99 100%);
+    background: linear-gradient(to right, #c9cecd 0%, #96b1b1 100%);
 }
